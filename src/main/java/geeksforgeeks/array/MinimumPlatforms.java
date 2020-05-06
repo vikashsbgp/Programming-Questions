@@ -3,8 +3,6 @@ package geeksforgeeks.array;
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
-import java.util.Arrays;
-import java.util.Iterator;
 import java.util.Map;
 import java.util.TreeMap;
 
@@ -50,7 +48,7 @@ public class MinimumPlatforms {
                     allTrains.put(str2[i], allTrains.get(str2[i]));
                 }
                 else
-                    allTrains.put(str2[i], new TreeMapValue('A', 1));
+                    allTrains.put(str2[i], new TreeMapValue('D', 1));
             }
 
             int currCount = 0, prevCount = 0;

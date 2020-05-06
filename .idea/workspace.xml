@@ -2,134 +2,19 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9069a6cd-ab8b-4aa2-8c6d-8df6f35f89ae" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/codechef/december/BINADD.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/codechef/december/CheckAlgorithm.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/codechef/december/SUBSPLAY.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/codechef/practice/Layers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/codinggame/ChefGusteau.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/geeksforgeeks/array/PairSumInRotatedSortedArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/geeksforgeeks/array/SearchInSortedArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/geeksforgeeks/array/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/geeksforgeeks/array/SortElementByFrequency.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/geeksforgeeks/linkedlist/DuplicateLinkedList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/geeksforgeeks/linkedlist/LinkedListQuestion.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/geeksforgeeks/string/RearrangeString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/geeksforgeeks/string/SmallestNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/hackerearth/AndOperation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/hackerearth/FindTheNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/hackerearth/MirrorTree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/hackerearth/TypingGame.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/hackerearth/UnholyPaths.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/array/QueensThatCanAttackKing.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/dp/CountingBits.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/dp/LetterCombination.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/dp/LongestValidParentheses.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/dp/UniquePath2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/graph/BaseCamp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/graph/CloneGraph.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/heap/LastStoneWeight.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/string/GenerateParentheses.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/string/MinimumRemoveToMakeValid.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/string/MinimumSwap.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/string/RegularExpressionMatching.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetcode/string/ScoreOfParantheses.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/revision/CountTriplets.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/revision/KadanesAlgorithm.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/revision/MergeTwoSortedArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/revision/MissingNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/revision/RearrangeArrayAlternately.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/revision/SubArrayWithGivenSum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/skillenza/BitPermutation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/skillenza/NumberOfMarkers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/skillenza/SearchEngineQuery.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/skillenza/SpiltMilk.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/skillenza/TopProduct2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/skillenza/VirusInfection.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/geeksforgeeks/avltree/AvlTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/kickstart/Training.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/revision/EquilibriumPoint.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/revision/InversionOfArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/revision/LeadersInArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/revision/MinimumPlatform.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/revision/NumberOfPairs.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CodingInterview.iml" beforeDir="false" afterPath="$PROJECT_DIR$/CodingInterview.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CodingInterview/META-INF/CodingInterview.kotlin_module" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CodingInterview/codechef/CATFEED.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CodingInterview/codechef/october/MARM.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CodingInterview/codechef/october/PhonePrices.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CodingInterview/codechef/october/SAKTAN.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CodingInterview/geeksforgeeks/array/CountInversionOfArray.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CodingInterview/geeksforgeeks/array/CountTriplets.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CodingInterview/geeksforgeeks/array/EfficientMergeTwoSortedArray.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CodingInterview/geeksforgeeks/array/EquilibriumPoint.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CodingInterview/geeksforgeeks/array/LeadersArray.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CodingInterview/geeksforgeeks/array/MaximumSumSubarray.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CodingInterview/geeksforgeeks/array/MergeTwoSortedArray.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CodingInterview/geeksforgeeks/array/MinimumPlatforms.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CodingInterview/geeksforgeeks/array/MissingNumber.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CodingInterview/geeksforgeeks/array/RearrangeArrayAlternatively.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CodingInterview/geeksforgeeks/array/Sort012InArray.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CodingInterview/geeksforgeeks/array/SubarraySum.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CodingInterview/geeksforgeeks/array/TreeMapValue.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CodingInterview/geeksforgeeks/linkedlist/Node.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CodingInterview/geeksforgeeks/linkedlist/RotateLinkedList.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CodingInterview/geeksforgeeks/stack/ParenthesisChecker.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CodingInterview/hackerearth/DimmestStar$TreeNode.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CodingInterview/hackerearth/DimmestStar.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CodingInterview/hackerearth/Graph.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CodingInterview/hackerearth/HeavyNode.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CodingInterview/hackerrank/Blackout.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CodingInterview/hackerrank/ManageForeignExchange.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CodingInterview/leetcode/array/FindAllDuplicates.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CodingInterview/leetcode/array/MaxAreaOfIsland.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CodingInterview/leetcode/dp/DivisorGame.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CodingInterview/leetcode/dp/HouseRobber.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CodingInterview/leetcode/dp/IsSubsequence.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CodingInterview/leetcode/dp/MaxSumSubArray.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CodingInterview/leetcode/dp/MinCostClimbingStairs.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CodingInterview/leetcode/dp/MinFallingPathSum.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CodingInterview/leetcode/dp/PalindromicSubstring.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CodingInterview/leetcode/dp/UniquePaths.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CodingInterview/skillenza/BracketExpression.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CodingInterview/skillenza/Node.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CodingInterview/skillenza/RedGreenBlue.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CodingInterview/skillenza/VowelsAndConsonant.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CodingInterview/spoj/LifeUniverseEverything.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/codechef/CATFEED.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/codechef/practice/CATFEED.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/codechef/october/MARM.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/codechef/october/MARM.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/codechef/october/PhonePrices.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/codechef/october/PhonePrices.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/codechef/october/SAKTAN.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/codechef/october/SAKTAN.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/geeksforgeeks/array/CountInversionOfArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/geeksforgeeks/array/CountInversionOfArray.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/geeksforgeeks/array/CountTriplets.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/geeksforgeeks/array/CountTriplets.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/geeksforgeeks/array/EfficientMergeTwoSortedArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/geeksforgeeks/array/EfficientMergeTwoSortedArray.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/geeksforgeeks/array/EquilibriumPoint.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/geeksforgeeks/array/EquilibriumPoint.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/geeksforgeeks/array/LeadersArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/geeksforgeeks/array/LeadersArray.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/geeksforgeeks/array/MaximumSumSubarray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/geeksforgeeks/array/MaximumSumSubarray.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/geeksforgeeks/array/MergeTwoSortedArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/geeksforgeeks/array/MergeTwoSortedArray.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/geeksforgeeks/array/MinimumPlatforms.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/geeksforgeeks/array/MinimumPlatforms.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/geeksforgeeks/array/MissingNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/geeksforgeeks/array/MissingNumber.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/geeksforgeeks/array/RearrangeArrayAlternatively.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/geeksforgeeks/array/RearrangeArrayAlternatively.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/geeksforgeeks/array/Sort012InArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/geeksforgeeks/array/Sort012InArray.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/geeksforgeeks/array/SubarraySum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/geeksforgeeks/array/SubarraySum.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/geeksforgeeks/linkedlist/RotateLinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/geeksforgeeks/linkedlist/RotateLinkedList.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/geeksforgeeks/stack/ParenthesisChecker.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/geeksforgeeks/stack/ParenthesisChecker.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/hackerearth/DimmestStar.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/hackerearth/DimmestStar.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/hackerearth/HeavyNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/hackerearth/HeavyNode.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/hackerrank/Blackout.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/hackerrank/Blackout.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/hackerrank/ManageForeignExchange.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/hackerrank/ManageForeignExchange.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/leetcode/array/FindAllDuplicates.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/leetcode/array/FindAllDuplicates.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/leetcode/array/MaxAreaOfIsland.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/leetcode/array/MaxAreaOfIsland.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/leetcode/dp/DivisorGame.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/leetcode/dp/DivisorGame.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/leetcode/dp/HouseRobber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/leetcode/dp/HouseRobber.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/leetcode/dp/IsSubsequence.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/leetcode/dp/IsSubsequence.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/leetcode/dp/MaxSumSubArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/leetcode/dp/MaxSumSubArray.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/leetcode/dp/MinCostClimbingStairs.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/leetcode/dp/MinCostClimbingStairs.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/leetcode/dp/MinFallingPathSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/leetcode/dp/MinFallingPathSum.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/leetcode/dp/PalindromicSubstring.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/leetcode/dp/PalindromicSubstring.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/leetcode/dp/UniquePaths.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/leetcode/dp/UniquePaths.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/skillenza/BracketExpression.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/skillenza/BracketExpression.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/skillenza/RedGreenBlue.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/skillenza/RedGreenBlue.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/skillenza/VowelsAndConsonant.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/skillenza/VowelsAndConsonant.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/spoj/LifeUniverseEverything.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/spoj/LifeUniverseEverything.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/geeksforgeeks/array/MinimumPlatforms.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/geeksforgeeks/array/MinimumPlatforms.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/revision/RearrangeArrayAlternately.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/revision/RearrangeArrayAlternately.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/geeksforgeeks/array/MinimumPlatforms.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/geeksforgeeks/array/MinimumPlatforms.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/geeksforgeeks/array/TreeMapValue.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/geeksforgeeks/array/TreeMapValue.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/revision/RearrangeArrayAlternately.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/revision/RearrangeArrayAlternately.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -164,24 +49,11 @@
     <property name="project.structure.last.edited" value="SDKs" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
   </component>
-  <component name="RunManager" selected="Application.RearrangeArrayAlternately">
-    <configuration name="MergeTwoSortedArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="main.java.revision.MergeTwoSortedArray" />
-      <module name="CodingInterview" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="main.java.revision.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="RearrangeArrayAlternately" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="revision.RearrangeArrayAlternately" />
+  <component name="RunManager" selected="Application.MinimumPlatform">
+    <configuration name="EquilibriumPoint" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="revision.EquilibriumPoint" />
       <module name="CodingInterview" />
       <extension name="coverage">
         <pattern>
@@ -193,14 +65,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SubArrayWithGivenSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="ALTERNATIVE_JRE_PATH" value="1.8.0_222" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
-      <option name="MAIN_CLASS_NAME" value="main.java.revision.SubArrayWithGivenSum" />
+    <configuration name="InversionOfArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="revision.InversionOfArray" />
       <module name="CodingInterview" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="main.java.revision.*" />
+          <option name="PATTERN" value="revision.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -208,12 +78,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TopProduct" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="main.java.skillenza.TopProduct" />
+    <configuration name="LeadersInArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="revision.LeadersInArray" />
       <module name="CodingInterview" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="main.java.skillenza.*" />
+          <option name="PATTERN" value="revision.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -221,12 +91,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="UniquePaths" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="leetcode.dp.UniquePaths" />
+    <configuration name="MinimumPlatform" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="revision.MinimumPlatform" />
       <module name="CodingInterview" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="leetcode.dp.*" />
+          <option name="PATTERN" value="revision.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Training" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="kickstart.Training" />
+      <module name="CodingInterview" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="kickstart.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -235,19 +118,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.MergeTwoSortedArray" />
-      <item itemvalue="Application.SubArrayWithGivenSum" />
-      <item itemvalue="Application.TopProduct" />
-      <item itemvalue="Application.UniquePaths" />
-      <item itemvalue="Application.RearrangeArrayAlternately" />
+      <item itemvalue="Application.InversionOfArray" />
+      <item itemvalue="Application.EquilibriumPoint" />
+      <item itemvalue="Application.LeadersInArray" />
+      <item itemvalue="Application.Training" />
+      <item itemvalue="Application.MinimumPlatform" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.RearrangeArrayAlternately" />
-        <item itemvalue="Application.MergeTwoSortedArray" />
-        <item itemvalue="Application.SubArrayWithGivenSum" />
-        <item itemvalue="Application.TopProduct" />
-        <item itemvalue="Application.UniquePaths" />
+        <item itemvalue="Application.MinimumPlatform" />
+        <item itemvalue="Application.Training" />
+        <item itemvalue="Application.LeadersInArray" />
+        <item itemvalue="Application.EquilibriumPoint" />
+        <item itemvalue="Application.InversionOfArray" />
       </list>
     </recent_temporary>
   </component>
@@ -289,56 +172,60 @@
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="184" y="113" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1440.900@0.0.1440.900" timestamp="1588353076923" />
-    <state x="533" y="166" key="#com.intellij.ide.util.MemberChooser" timestamp="1582963707479">
+    <state x="533" y="166" key="#com.intellij.ide.util.MemberChooser" timestamp="1588704068595">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="533" y="166" key="#com.intellij.ide.util.MemberChooser/0.0.1440.900@0.0.1440.900" timestamp="1582963707479" />
+    <state x="533" y="166" key="#com.intellij.ide.util.MemberChooser/0.0.1440.900@0.0.1440.900" timestamp="1588704068595" />
     <state x="408" y="193" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1588341466502">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="408" y="193" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1440.900@0.0.1440.900" timestamp="1588341466502" />
-    <state width="438" height="466" key="DebuggerActiveHint" timestamp="1583042197597">
+    <state width="438" height="466" key="DebuggerActiveHint" timestamp="1588602361347">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="438" height="466" key="DebuggerActiveHint/0.0.1440.900@0.0.1440.900" timestamp="1583042197597" />
+    <state width="438" height="466" key="DebuggerActiveHint/0.0.1440.900@0.0.1440.900" timestamp="1588602361347" />
     <state width="409" height="466" key="DebuggerActiveHint/0.23.1440.877@0.23.1440.877" timestamp="1583039269404" />
-    <state width="1398" height="246" key="GridCell.Tab.0.bottom" timestamp="1588357213916">
+    <state width="1398" height="261" key="GridCell.Tab.0.bottom" timestamp="1588779736637">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="246" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1588357213916" />
-    <state width="1398" height="246" key="GridCell.Tab.0.center" timestamp="1588357213914">
+    <state width="1398" height="261" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1588779736637" />
+    <state width="1398" height="261" key="GridCell.Tab.0.center" timestamp="1588779736635">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="246" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1588357213914" />
-    <state width="1398" height="246" key="GridCell.Tab.0.left" timestamp="1588357213913">
+    <state width="1398" height="261" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1588779736635" />
+    <state width="1398" height="261" key="GridCell.Tab.0.left" timestamp="1588779736634">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="246" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1588357213913" />
-    <state width="1398" height="246" key="GridCell.Tab.0.right" timestamp="1588357213915">
+    <state width="1398" height="261" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1588779736634" />
+    <state width="1398" height="261" key="GridCell.Tab.0.right" timestamp="1588779736636">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="246" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1588357213915" />
-    <state width="1398" height="246" key="GridCell.Tab.1.bottom" timestamp="1588357213919">
+    <state width="1398" height="261" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1588779736636" />
+    <state width="1398" height="246" key="GridCell.Tab.1.bottom" timestamp="1588686531344">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="246" key="GridCell.Tab.1.bottom/0.0.1440.900@0.0.1440.900" timestamp="1588357213919" />
-    <state width="1398" height="246" key="GridCell.Tab.1.center" timestamp="1588357213917">
+    <state width="1398" height="246" key="GridCell.Tab.1.bottom/0.0.1440.900@0.0.1440.900" timestamp="1588686531344" />
+    <state width="1398" height="246" key="GridCell.Tab.1.center" timestamp="1588686531342">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="246" key="GridCell.Tab.1.center/0.0.1440.900@0.0.1440.900" timestamp="1588357213917" />
-    <state width="1398" height="246" key="GridCell.Tab.1.left" timestamp="1588357213917">
+    <state width="1398" height="246" key="GridCell.Tab.1.center/0.0.1440.900@0.0.1440.900" timestamp="1588686531342" />
+    <state width="1398" height="246" key="GridCell.Tab.1.left" timestamp="1588686531342">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="246" key="GridCell.Tab.1.left/0.0.1440.900@0.0.1440.900" timestamp="1588357213917" />
-    <state width="1398" height="246" key="GridCell.Tab.1.right" timestamp="1588357213918">
+    <state width="1398" height="246" key="GridCell.Tab.1.left/0.0.1440.900@0.0.1440.900" timestamp="1588686531342" />
+    <state width="1398" height="246" key="GridCell.Tab.1.right" timestamp="1588686531343">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="246" key="GridCell.Tab.1.right/0.0.1440.900@0.0.1440.900" timestamp="1588357213918" />
-    <state x="229" y="66" key="SettingsEditor" timestamp="1588353016587">
+    <state width="1398" height="246" key="GridCell.Tab.1.right/0.0.1440.900@0.0.1440.900" timestamp="1588686531343" />
+    <state x="229" y="66" key="SettingsEditor" timestamp="1588780346092">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="229" y="66" key="SettingsEditor/0.0.1440.900@0.0.1440.900" timestamp="1588353016587" />
+    <state x="229" y="66" key="SettingsEditor/0.0.1440.900@0.0.1440.900" timestamp="1588780346092" />
     <state x="229" y="89" key="SettingsEditor/0.23.1440.877@0.23.1440.877" timestamp="1588341631233" />
+    <state x="249" y="187" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1588586498355">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="249" y="187" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.0.1440.900@0.0.1440.900" timestamp="1588586498355" />
     <state width="600" height="424" key="javadoc.popup" timestamp="1582964627498">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
@@ -347,194 +234,178 @@
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="149" y="72" key="new project wizard/0.0.1440.900@0.0.1440.900" timestamp="1582651484124" />
+    <state x="385" y="196" width="670" height="676" key="search.everywhere.popup" timestamp="1588772576648">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="385" y="196" width="670" height="676" key="search.everywhere.popup/0.0.1440.900@0.0.1440.900" timestamp="1588772576648" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
+        <line-breakpoint type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/geeksforgeeks/array/SubarraySum.java</url>
           <line>35</line>
           <option name="timeStamp" value="1" />
         </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
+        <line-breakpoint type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/geeksforgeeks/array/CountTriplets.java</url>
           <line>30</line>
           <option name="timeStamp" value="2" />
         </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
+        <line-breakpoint type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/geeksforgeeks/array/MergeTwoSortedArray.java</url>
           <line>36</line>
           <option name="timeStamp" value="3" />
         </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
+        <line-breakpoint type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/geeksforgeeks/stack/ParenthesisChecker.java</url>
           <line>20</line>
           <option name="timeStamp" value="13" />
         </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
+        <line-breakpoint type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/geeksforgeeks/array/Sort012InArray.java</url>
           <line>27</line>
           <option name="timeStamp" value="14" />
         </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
+        <line-breakpoint type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/geeksforgeeks/array/EquilibriumPoint.java</url>
           <line>17</line>
           <option name="timeStamp" value="18" />
         </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
+        <line-breakpoint type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/geeksforgeeks/array/LeadersArray.java</url>
           <line>27</line>
           <option name="timeStamp" value="19" />
         </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/geeksforgeeks/array/MinimumPlatforms.java</url>
-          <line>55</line>
-          <option name="timeStamp" value="20" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
+        <line-breakpoint type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/leetcode/dp/PalindromicSubstring.java</url>
           <line>6</line>
           <option name="timeStamp" value="21" />
         </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
+        <line-breakpoint type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/codechef/practice/CATFEED.java</url>
           <line>33</line>
           <option name="timeStamp" value="22" />
         </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
+        <line-breakpoint type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/skillenza/VowelsAndConsonant.java</url>
           <line>51</line>
           <option name="timeStamp" value="25" />
         </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
+        <line-breakpoint type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/leetcode/dp/MinCostClimbingStairs.java</url>
           <line>16</line>
           <option name="timeStamp" value="26" />
         </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
+        <line-breakpoint type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/codechef/october/PhonePrices.java</url>
           <line>12</line>
           <option name="timeStamp" value="27" />
         </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
+        <line-breakpoint type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/codechef/october/PhonePrices.java</url>
           <line>21</line>
           <option name="timeStamp" value="28" />
         </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
+        <line-breakpoint type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/codechef/october/SAKTAN.java</url>
           <line>10</line>
           <option name="timeStamp" value="29" />
         </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
+        <line-breakpoint type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/skillenza/RedGreenBlue.java</url>
           <line>24</line>
           <option name="timeStamp" value="30" />
         </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
+        <line-breakpoint type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/skillenza/BracketExpression.java</url>
           <line>57</line>
           <option name="timeStamp" value="35" />
         </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
+        <line-breakpoint type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/leetcode/dp/UniquePaths.java</url>
           <line>17</line>
           <option name="timeStamp" value="37" />
         </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
+        <line-breakpoint type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/leetcode/array/FindAllDuplicates.java</url>
           <line>15</line>
           <option name="timeStamp" value="38" />
         </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
+        <line-breakpoint type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/leetcode/string/ScoreOfParantheses.java</url>
           <line>61</line>
           <option name="timeStamp" value="39" />
         </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
+        <line-breakpoint type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/leetcode/string/ScoreOfParantheses.java</url>
           <line>47</line>
           <option name="timeStamp" value="40" />
         </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
+        <line-breakpoint type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/leetcode/string/RegularExpressionMatching.java</url>
           <line>13</line>
           <option name="timeStamp" value="44" />
         </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
+        <line-breakpoint type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/leetcode/heap/LastStoneWeight.java</url>
           <line>18</line>
           <option name="timeStamp" value="46" />
         </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
+        <line-breakpoint type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/skillenza/SearchEngineQuery.java</url>
           <line>58</line>
           <option name="timeStamp" value="47" />
         </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
+        <line-breakpoint type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/skillenza/VirusInfection.java</url>
           <line>5</line>
           <option name="timeStamp" value="48" />
         </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
+        <line-breakpoint type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/hackerearth/TypingGame.java</url>
           <line>63</line>
           <option name="timeStamp" value="49" />
         </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
+        <line-breakpoint type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/skillenza/NumberOfMarkers.java</url>
           <line>32</line>
           <option name="timeStamp" value="53" />
         </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
+        <line-breakpoint type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/codinggame/ChefGusteau.java</url>
           <line>24</line>
           <option name="timeStamp" value="54" />
         </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
+        <line-breakpoint type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/skillenza/SpiltMilk.java</url>
           <line>32</line>
           <option name="timeStamp" value="55" />
         </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
+        <line-breakpoint type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/hackerearth/FindTheNumber.java</url>
           <line>11</line>
           <option name="timeStamp" value="58" />
         </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
+        <line-breakpoint type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/leetcode/string/MinimumRemoveToMakeValid.java</url>
           <line>37</line>
           <option name="timeStamp" value="63" />
         </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
+        <line-breakpoint type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/codechef/december/CheckAlgorithm.java</url>
           <line>27</line>
           <option name="timeStamp" value="67" />
         </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
+        <line-breakpoint type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/codechef/december/CheckAlgorithm.java</url>
           <line>15</line>
           <option name="timeStamp" value="68" />
         </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
+        <line-breakpoint type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/skillenza/BitPermutation.java</url>
           <line>13</line>
           <option name="timeStamp" value="69" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/revision/RearrangeArrayAlternately.java</url>
-          <line>29</line>
-          <option name="timeStamp" value="71" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/revision/RearrangeArrayAlternately.java</url>
-          <line>44</line>
-          <option name="timeStamp" value="72" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/revision/RearrangeArrayAlternately.java</url>
-          <line>52</line>
-          <option name="timeStamp" value="73" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

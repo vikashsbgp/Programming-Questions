@@ -13,15 +13,45 @@ public class RearrangeArrayAlternately {
         while (t-- > 0) {
             int n = Integer.parseInt(br.readLine().trim());
             String[] str = br.readLine().trim().split(" ");
-            int[] arr = new int[n + 1];
+            long[] arr = new long[n + 1];
             for (int i = 0; i < n; ++i)
                 arr[i + 1] = Integer.parseInt(str[i]);
 
-            rearrangeArrayAlternately(arr, n);
+            rearrangeArrayAlternately(arr);
 
             if (t != 0)
                 System.out.println();
 
+        }
+    }
+
+    // O(n)
+    public static void rearrangeArrayAlternately(long[] arr) {
+        int n = arr.length - 1;
+        int maxIndex = n;
+        int minIndex = 1;
+        long maxElement = arr[maxIndex] + 1;
+
+        for (int i = 1; i <= n; i++) {
+
+            if (i % 2 != 0) {
+                arr[i] += (arr[maxIndex] % maxElement) * maxElement;
+                --maxIndex;
+            }
+            else {
+                arr[i] += (arr[minIndex] % maxElement) * maxElement;
+                ++minIndex;
+            }
+
+        }
+
+
+        for (int i = 1; i <= n; ++i) {
+
+            System.out.print(arr[i] / maxElement);
+
+            if (i != n)
+                System.out.print(" ");
         }
     }
 
